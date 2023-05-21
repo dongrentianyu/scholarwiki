@@ -4,7 +4,6 @@ modified: 20230317054705591
 modifier: 马不前
 tags: 
 title: 横向开启栏
-tmap.id: 97c9d6cd-6f17-4bdf-afa4-d7f0edbb1fa8
 type: text/vnd.tiddlywiki
 
 <$list filter="[list<tv-story-list>]" history=<<tv-history-list>> storyview="pop">

@@ -5,7 +5,6 @@ modified: 20230420074637365
 modifier: 马不前
 tags: 
 title: 常量只保存到常量表达式是什么意思
-tmap.id: 87e5beb4-659c-4fe2-9ccc-1c0e1653fafd
 type: text/vnd.tiddlywiki
 
 常量只保存到常量表达式是什么意思？是说只能用const声明这种唯一的表达式吗？无法绑定到函数调用结果是什么意思？或只在运行时才能计算的值，那不运行的时候不参与函数吗？

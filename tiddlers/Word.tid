@@ -1,7 +1,6 @@
 code-body: yes
 tags: $:/tags/QuestionTemplate
 title: Word
-tmap.id: 0504e43a-985e-4312-a009-ef410e893050
 type: text/vnd.tiddlywiki
 
 {{!!word}}
