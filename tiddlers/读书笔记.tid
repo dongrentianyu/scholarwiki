@@ -1,9 +1,8 @@
 created: 20230419023901218
 creator: 马不前
-list: 安德烈•塔可夫斯基 编程珠玑 导读德里达 第七天 红色骑兵军 内外之际：中国的他者与外者 青春 夏日 认知成见 我的城邦 苏珊•桑塔格谈话录 小说的艺术 中国文化特质 西方美术名作二 十讲
-modified: 20230428123239493
+modified: 20230607145407776
 modifier: 马不前
-tags: TableOfContents
+tags: TableOfContents asd
 title: 读书笔记
 type: text/vnd.tiddlywiki
 
@@ -14,3 +13,17 @@ type: text/vnd.tiddlywiki
 也有挺多书籍可能只是粗略看了一下，然后就放回去了。或者没来得及看。
 
 在这里简单说一下为什么没有其他形式内容呢？比如游戏，比如影视番剧这种的。一开始我也想可以设立，但后面又想到，虽然这些都有艺术成份，但终究不是以艺术为主体，或者说我看得不是非常多。比如游戏，有艺术成份的游戏，我可能不超过三款，我对游戏也不是特别了解，所以这些就不公开出来，而只放在私人wiki里了。
+
+最近有好多书，看了但没有记录，只在豆瓣里记录了一下。
+
+本来我是不想分类的，我就想这样一直留着下去。但现在发现如果不分类一下，会越来越长，分类起来就挺麻烦的了。但一分类也挺麻烦的，可以按文体分，也可以按国别分。本来这倒也没什么。但文体的话，就有小说，诗歌，散文，戏剧，随笔这五种。国别的话，那可太多了。因为分类本来是在另一个wiki做的事情。但现在也挺麻烦了。
+
+而且还有短篇小说，长篇小说这样更细致的分类。
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable '读书笔记'>>
+
+</div>
+
+<$macrocall $name=aggregation caption="读书笔记" filter="[all[tiddlers]in-tagtree-of[读书笔记]]"  defaultFields="tbl-expand title tags" class="w-100" />

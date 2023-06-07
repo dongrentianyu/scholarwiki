@@ -1,10 +1,12 @@
-created: 20230603111012078
+created: 20230607143237336
 creator: 马不前
-modified: 20230604134548513
+modified: 20230607144250982
 modifier: 马不前
-tags: TableOfContents
-title: 少年游
+tags: 读书笔记
+title: 按人物分
 type: text/vnd.tiddlywiki
+
+想了想，就简单写吧，多少是个人物。
 
 <<<
 唐多令·芦叶满汀洲 刘过〔宋代〕
@@ -17,3 +19,9 @@ type: text/vnd.tiddlywiki
 <<<
 
 主要是记一些人和一些事，或者简单就是一些感想而已，并不打算写得太长，太专业。
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable '按人物分'>>
+
+</div>
