@@ -1,0 +1,11 @@
+{
+    "text": "<$set name=\"tes\" value={{{ [tag[读书笔记]] }}}>\n\n<$macrocall $name=aggregation caption=\"读书笔记\" filter=\"[all[tiddlers]in-tagtree-of[读书笔记]]-[tag[读书笔记]] -[tag<current>]\"  defaultFields=\"tbl-expand title tags\" class=\"w-100\" />\n\n</$set>",
+    "created": "20230608110046456",
+    "creator": "马不前",
+    "tags": "asd",
+    "title": "Draft of '想法' by 马不前",
+    "modified": "20230608111124267",
+    "modifier": "马不前",
+    "draft.title": "想法",
+    "draft.of": "想法"
+}

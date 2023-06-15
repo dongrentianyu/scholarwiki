@@ -1,6 +1,6 @@
 created: 20230419023901218
 creator: 马不前
-modified: 20230607152221607
+modified: 20230608151445650
 modifier: 马不前
 tags: TableOfContents asd
 title: 读书笔记
@@ -20,4 +20,4 @@ type: text/vnd.tiddlywiki
 
 而且还有短篇小说，长篇小说这样更细致的分类。
 
-<$macrocall $name=aggregation caption="读书笔记" filter="[all[tiddlers]in-tagtree-of[读书笔记]]-[tag[读书笔记]]"  defaultFields="tbl-expand title tags" class="w-100" />
+<$macrocall $name=aggregation caption="读书笔记" filter="[all[tiddlers]in-tagtree-of[读书笔记]]-[tags[读书笔记]]"  defaultFields="tbl-expand title tags" class="w-100" />
